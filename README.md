@@ -2,4 +2,4 @@
 # João Luis Bueno de França
 ## Pensamento Computacional
 - Colégio Paulo Leminski
-- **professora drielle**
+- **Professora Drielle**
